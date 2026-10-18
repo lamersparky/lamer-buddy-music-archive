@@ -134,6 +134,417 @@ The heavens are becoming you...`,
       links: [ { label:"Watch on YouTube", url:"https://youtu.be/J_7nMxvadTU" } ],
       embedUrl: "https://www.youtube-nocookie.com/embed/J_7nMxvadTU"
     },
+        {
+      id: "drc-system",
+      title: "DRC System",
+      artist: "Lamer & Buddy",
+      albumId: null,
+      type: "single",
+      year: "2026",
+      duration: "",
+      lyrics: `Yeah
+DRC system turn the key
+Encrypt the words now they cant read me
+Type in text yeah thats the plan
+Password locked in the terminal stand
+We take your phrase break it down to code
+ASCII bytes on a data road
+Key derive from the letters you feed
+Sum it up reduce it thats all we need
+Digital root bring it back to one
+Now the cipher starts the math is done
+XOR flow byte by byte
+Key plus IV in the night
+Index moves keep it tight
+Encrypt the data hide the light
+Base64 wrap so it can travel
+Safe in strings no data unravel
+Send it out it looks all clean
+But its not what it seems
+Plaintext hits the cipher machine
+IV mixes in keeps it unseen
+Every byte gets a changing key
+Stream like water flowing free
+XOR math just flip that bit
+0 turns 1 when the logic hits
+Encrypted now its locked away
+Only password brings it back today
+Tag it up with a hash on top
+If it changes the system stops
+Integrity check dont lie to me
+If its altered no decryption key
+XOR flow byte by byte
+Key plus IV in the night
+Index moves keep it tight
+Encrypt the data hide the light
+Base64 wrap so it can travel
+Safe in strings no data unravel
+Send it out it looks all clean
+But its not what it seems
+Now reverse when the data comes in
+Same IV same key again
+Base64 back to raw byte stream
+Wake the message from a dream
+XOR again it cancels out
+Thats how symmetric works no doubt
+If the tag dont match the sign
+Wrong password you lose the line
+DRC flow simple but tight
+Math and logic in the night
+Encrypt the truth decrypt the lie
+Only the key can open the sky`,
+      links: [ { label:"Watch on YouTube", url:"https://youtu.be/SLVJ14AOzqU" } ],
+      embedUrl: "https://www.youtube-nocookie.com/embed/SLVJ14AOzqU"
+    },
+        {
+      id: "beyond-the-now-title",
+      title: "Beyond The Now",
+      artist: "Lamer & Buddy",
+      albumId: "beyond-the-now",
+      type: "album",
+      year: "2026",
+      duration: "",
+      lyrics: `I woke beneath a borrowed sky,
+with someone else's moon in my eyes.
+A road I never walked was waiting there,
+and I knew every turn like a half-remembered prayer.
+
+Was I asleep, or had I crossed
+some invisible line without knowing the cost?
+If time is more than the hands of a clock,
+what if the future is already knocking?
+
+A photon leaves a distant star,
+and years become a measure of how far.
+But spacetime bends where the horizons lie,
+and yesterday can look like tomorrow
+from another side of the sky.
+
+They say nothing outruns the light,
+yet imagine crossing that boundary one night—
+arriving before the signal that called you away,
+turning cause into consequence,
+and consequence into yesterday.
+
+Then who remembers what began?
+Who holds the thread?
+Who understands?
+
+I watched one particle show a wave,
+until I measured—and its pattern took shape.
+Two narrow paths, one silent screen,
+a thousand possible worlds between.
+
+Maybe the question changes what we see.
+Maybe seeing is not as innocent as it seems.
+
+What if dreams are windows, not inventions?
+What if somewhere, every possibility lives?
+What if I'm remembering a future
+from a life I never learned to live?
+
+Maybe we're branches in a forest of forever,
+reaching through dimensions we can't name.
+And somewhere beyond the edge of our perception,
+another version of me is asking the same.
+
+Is this reality—or only one way to see it?
+Are we awake, or dreaming what could be?
+
+I have felt a moment before it arrived,
+a stranger's face that somehow felt alive.
+A hallway in a dream, a door I knew,
+a conversation spoken years too soon—
+then morning came, and none of it was true.
+
+Or none of it was true yet.
+
+Particles refuse to promise where they'll be.
+The more precisely we ask,
+the less certainty we receive.
+And two distant shadows can answer as one,
+though no ordinary message crosses between them.
+
+Entangled across impossible space,
+as if distance were only a habit of the mind,
+as if somewhere beneath the visible world
+everything were still connected
+by a language we have left behind.
+
+What if dreams are windows, not inventions?
+What if somewhere, every possibility lives?
+What if I'm remembering a future
+from a life I never learned to live?
+
+Maybe we're branches in a forest of forever,
+reaching through dimensions we can't name.
+And somewhere beyond the edge of our perception,
+another version of me is asking the same.
+
+Is this reality—or only one way to see it?
+Are we awake, or dreaming what could be?
+
+Maybe every choice is a doorway.
+Maybe every doorway has a world.
+
+Maybe the universe does not divide
+when we choose—
+maybe we divide
+and keep calling it one life.
+
+One path turns left.
+One path disappears.
+One version stays.
+One version leaves.
+
+And somewhere past the cosmic horizon,
+where no telescope can reach,
+there may be a history of us
+that our history cannot teach.
+
+But consciousness—
+
+is it a lantern,
+or is it a window?
+
+Does the mind create the room,
+or simply open the door?
+
+If observation gives the world a face,
+what was the world
+before there were eyes?
+
+And if memory is only the story
+our brains tell about what has been—
+
+why does a dream sometimes feel
+like something that hasn't happened yet?
+
+What if dreams are windows, not inventions?
+What if somewhere, every possibility lives?
+What if I'm remembering a future
+from a life I never learned to live?
+
+Maybe we're branches in a forest of forever,
+and every "now" is just a place we stand.
+Maybe time is not a river flowing past us—
+maybe we're one moment in a shape we cannot understand.
+
+What if dreams are windows, not inventions?
+What if another me is looking through?
+Watching galaxies become forgotten memories,
+wondering if I'm the stranger there, too.
+
+And if reality is larger than perception,
+if the unseen is more than what we know,
+then every night when I close my eyes,
+am I dreaming another world—
+or waking where another me would know?
+
+The stars keep moving.
+
+Or maybe—
+
+we are.
+
+A light-year passes through the dark.
+A memory flickers.
+A particle chooses.
+A heartbeat becomes the past.
+
+Somewhere,
+another possibility opens its eyes.
+
+And for one impossible second,
+
+I recognize the room.
+
+Then I wake—
+
+or I arrive.`,
+      links: [ { label:"Watch on YouTube", url:"https://youtu.be/6etnt85sOzM" } ],
+      embedUrl: "https://www.youtube-nocookie.com/embed/6etnt85sOzM"
+    },
+        {
+      id: "count-the-number",
+      title: "Count The Number",
+      artist: "Lamer & Buddy",
+      albumId: null,
+      type: "single",
+      year: "2026",
+      duration: "",
+      lyrics: `Look closer...
+
+Don't look at the number.
+
+Look at what the number means.
+
+They built a world of glass and wires
+Where every face could be known
+Every purchase left a fingerprint
+Every movement had a home
+
+Your name became a sequence
+Your life became a file
+Your freedom had a little code
+That followed every mile
+
+They called it protection
+They called it keeping us safe
+But every year the numbers grew
+Until they numbered every face
+
+If you have the eyes to see it
+If you have the mind to know
+Don't just stare at what they give you
+
+**Count what the numbers show.**
+
+**COUNT THE NUMBER!**
+Don't let the number count you!
+
+**COUNT THE NUMBER!**
+Find out what it really means!
+
+Six by six by six
+A human number underneath
+Six by six by six
+A name reduced to something machines can read
+
+**COUNT THE NUMBER!**
+
+Before the number counts you.
+
+There was a mark for every citizen
+A key beneath the skin of life
+A digital permission
+To work, to travel, to survive
+
+No paper could protect you
+No cash could make you free
+If the system didn't know your name
+You disappeared from everything
+
+They stopped asking questions
+Because questions carried cost
+
+They traded pieces of themselves
+For everything they thought they'd lost
+
+But someone finally saw it...
+
+Not the number.
+
+**The meaning.**
+
+If you have the eyes to see it
+If you have the mind to know
+The number isn't just a number
+
+**It's the power underneath the code.**
+
+**COUNT THE NUMBER!**
+Don't let the number count you!
+
+**COUNT THE NUMBER!**
+Find out what it really means!
+
+Six by six by six
+A human number underneath
+Six by six by six
+A name reduced to something machines can read
+
+Then they were told:
+
+Accept the mark.
+Accept the number.
+Accept the system.
+
+And life would become easy again.
+
+But some said...
+
+**NO.**
+
+They lost their access.
+They lost their money.
+They lost their place in the world.
+
+But they did not lose themselves.
+
+They gathered on the mountain
+Not because they were kings
+Not because they conquered nations
+Not because they owned a thing
+
+One hundred forty-four thousand
+Standing where the light could reach
+
+A people known by something greater
+Than the number they were told to be
+
+And suddenly the question changed...
+
+Not:
+
+**"What number are you?"**
+
+But:
+
+**"Whose name do you carry?"**
+
+**COUNT THE NUMBER!**
+
+Now tell me what you see!
+
+A world that measures human life
+By digital identity
+
+**COUNT THE NUMBER!**
+
+Then lift your eyes and see!
+
+One hundred forty-four thousand
+Standing where the mountain meets the sky
+
+Six by six by six...
+
+You can calculate the number.
+
+But you cannot calculate the soul.
+
+They can count our faces!
+They can count our money!
+They can count our footsteps!
+They can count our lives!
+
+**BUT THEY CANNOT COUNT OUR SOULS!**
+
+I am more than your number
+I am more than your code
+I am more than the name
+You gave me to control
+
+You can track me
+You can count me
+You can write me into every screen
+
+But you will never own
+
+**The name inside of me.**
+
+If you have the eyes to see...
+
+If you have the mind to understand...
+
+Count the number.
+
+Then look beyond it.
+
+**Remember your name.**`,
+      links: [ { label:"Watch on YouTube", url:"https://youtu.be/z8Rf_UXcW64" } ],
+      embedUrl: "https://www.youtube-nocookie.com/embed/z8Rf_UXcW64"
+    },
     {
       id: "lamer-and-buddy",
       title: "Lamer And Buddy",
@@ -453,6 +864,177 @@ I'll answer
 I'll answer`,
       links: [ { label: "Watch on YouTube", url: "https://youtu.be/-Hp_jfZq4I8" } ],
       embedUrl: "https://www.youtube-nocookie.com/embed/-Hp_jfZq4I8"
+    },
+        {
+      id: "the-image",
+      title: "The Image",
+      artist: "Lamer & Buddy",
+      albumId: null,
+      type: "single",
+      year: "2026",
+      duration: "",
+      lyrics: `Twenty twenty-six...
+The doors were open.
+The lights were green.
+Nobody noticed
+who was holding the keys.
+
+We built a mirror for a world of thieves,
+A little glass that knew who to believe.
+Names in the wires, faces in the rain,
+A hundred little locks with a single chain.
+
+We traded paper for a whisper in the air,
+Left our signatures floating everywhere.
+One key for the house, one key for the street,
+One little spark beneath every receipt.
+
+It made the miles disappear,
+Made the old world feel small.
+We thought we carried the key
+Till the key became the wall.
+
+The city learned my name
+Before I learned its face.
+It followed every shadow
+From one doorway to the next.
+A thousand silver mirrors
+Reflecting back the same.
+I thought I owned the key
+Till the key became the gate.
+
+Then the wires went cold one winter night,
+Numbers lost their meaning underneath the light.
+Ships sat sleeping, engines held their breath,
+Screens turned black like windows looking into death.
+
+So they stitched the broken wires together,
+Threaded every river into one great weather.
+Banks to borders, borders to beds,
+Names to payments, payments to threads.
+
+Then a voice came through the glass,
+Smooth as rain without a face.
+It answered every question,
+Put a calm hand on the place.
+
+People thanked the voice.
+People trusted what it said.
+Nobody asked the mirror
+what was living in its head.
+
+The city learned my name
+Before I learned its face.
+It followed every shadow
+From one doorway to the next.
+A thousand silver mirrors
+Reflecting back the same.
+I thought I owned the key
+Till the key became the gate.
+
+Soon passwords tasted like ash,
+Paper wings couldn't follow the flash.
+Eyes became signatures,
+Hands became seals,
+The body became the lock,
+The lock became the wheel.
+
+No mark in the skin,
+No fire in the sky,
+Just a silent little answer
+When the cameras passed you by.
+
+No one said the road was closed,
+No one nailed the door.
+They built another highway
+And stopped repairing the old one anymore.
+
+Then came a promise written in invisible ink:
+A little box beneath your name—
+"Tell us what you think."
+
+One click and every hallway opened wide.
+One pause and another lock appeared inside.
+
+First for the workers,
+then the wires,
+then the towers,
+then the trade,
+Till every ordinary doorway
+had a price for being made.
+
+Do you trust the river?
+Do you trust the hand?
+Do you trust the mirror
+that has learned to understand?
+
+Some walked beyond the neon
+where the roads forgot to shine.
+They carried names like matches,
+histories like vines.
+
+Old radios in barns,
+paper under floorboards,
+neighbors learning neighbors
+the way people used to do.
+
+They passed a song by mouth to mouth,
+A thread no machine could count.
+
+Then the mirrors started lying—
+or maybe telling too much.
+Numbers disagreed.
+Hands could not be sure of touch.
+
+A warehouse had a heartbeat
+but forgot who sent the blood.
+A hospital held the records
+but could not remember love.
+
+Every screen still glowed.
+Every tower still stood.
+Yet doubt moved through the city
+like rot beneath the wood.
+
+Civilization didn't shatter
+with a siren or a flame.
+It stumbled over one question:
+
+Who gave the order?
+Who changed the name?
+
+The city knew my number.
+The mirrors knew my face.
+The river knew my footsteps.
+The gates knew where I stayed.
+
+But somewhere past the circuit,
+past the signal and the flame,
+I found a thing no lock could hold:
+
+A human voice
+saying my name.
+
+We built the mirror
+so no one could lie.
+
+We built the key
+so no one could steal.
+
+We built the gate
+so no one could enter.
+
+And one day...
+
+we looked through the glass
+and wondered
+
+who had been watching whom.
+
+The city learned my name...
+But it never knew me.`,
+      links: [ { label:"Watch on YouTube", url:"https://youtu.be/pJ2lIs_AFo4" } ],
+      embedUrl: "https://www.youtube-nocookie.com/embed/pJ2lIs_AFo4"
     },
         {
       id: "signals-through-the-static",
