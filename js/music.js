@@ -40,6 +40,68 @@ window.MUSIC_ARCHIVE = {
   ],
   songs: [
     {
+      id: "call-to-duty",
+      title: "Call to Duty",
+      artist: "Lamer & Buddy",
+      albumId: null,
+      typle: "single",
+      year: "2026",
+      duration: "",
+      lyrics: `Raise your right hand, yeah, step in the light
+This the moment you decide what you stand for in life
+Say your name clear, no fear in your breath
+You’re swearin’ on your honor, yeah, there ain’t nothin’ left
+“I, state your name”—that’s where it begins
+No aliases here, just truth from within
+You step into a role bigger than self
+Put the mission first, put the pride on the shelf
+
+I will support and defend
+The Constitution to the end
+Against all enemies, yeah, foreign and domestic
+Standin’ on that line, gotta keep it all protected
+Bear true faith and allegiance, say it with precision
+Follow orders given, that’s the soldier’s vision
+No hesitation, no division in the system
+Live by the oath—don’t just repeat it, listen
+
+“Support and defend”—that’s more than a phrase
+It means protectin’ freedom in a hundred different ways
+The Constitution’s the foundation you guard
+Not a person, not a place—but the law at the heart
+“Enemies foreign and domestic”—understand the scope
+Could be overseas threats or danger at home
+That means loyalty ain’t blind, it’s aligned with the right
+Protect the people and the law, that’s the code you recite
+
+“Obey the orders of the President” — commander-in-chief
+Civilian control, that’s a core belief
+“And officers appointed over me”—chain of command
+Discipline and structure, that’s what makes you stand
+According to regulations, and the UCMJ
+Rules of military justice guide you every day
+This ain’t freestyle life, it’s a code you respect
+Every move calculated, every action in check
+
+No shortcuts here, no halfway ground
+This a lifelong echo when you say it out loud
+Responsibility heavy but you carry it proud
+From the whisper of the oath to the battlefield sound
+
+“So help me God”—if that’s your belief
+Or stand on your honor, either way it’s deep
+It’s the final line, but it’s where it begins
+A contract with duty that lives within
+
+I will support and defend, let it echo again
+The Constitution protected till the very end
+True faith, allegiance, orders I’m given
+Live by the oath every day that I’m livin’`,
+      links: [ { label:"Watch on YouTube", url:"https://youtu.be/fE8Dp31UrIo" } ],
+      embedUrl: "https://www.youtube-nocookie.com/embed/fE8Dp31UrIo"
+    
+    },
+    {
       id: "dreameth-in-the-clouds",
       title: "Dreameth In The Clouds",
       artist: "Lamer & Buddy",
