@@ -40,11 +40,99 @@ window.MUSIC_ARCHIVE = {
   ],
   songs: [
     {
+      id: "united-nations-guitar-cipher",
+      title: "United Nations Guitar Cipher",
+      artist: "Lamer & Buddy",
+      albumId: null,
+      type: "Single",
+      year: "2026",
+      duration: "",
+      lyrics: ``,
+
+      links: [  { label:"Watch on YouTube", url:"https://youtu.be/o52qHy7OUPo"} ],
+      embedUrl: "https://www.youtube-nocookie.com/embed/o52qHy7OUPo"
+    },
+    {
+      id: "purple-heart-nurse",
+      title: "Purple Heart Nurse",
+      artist: "Lamer & Buddy",
+      albumId: null,
+      type: "Single",
+      year: "2026",
+      duration: "",
+      lyrics: `I was running on empty, just another gray day
+Coffee gone cold, same roads, same ways
+Then you walked in smiling like you knew my name
+White walls lit up, nothing felt the same
+Purple heart hanging on a golden chain
+Name like a hot pepper I can’t explain
+One look hit me harder than the truth ever does
+Yeah, some men got luck — guess one’s got you, love
+
+I didn’t touch your hand, didn’t cross that line
+Just walked out taller than I walked in that time
+
+I’m a dollar short and a day too late
+But you shook my world in the smallest way
+That smile hit me like a second chance
+Lit a fire in a one-man stand
+If loving you’s a road I can’t take
+Still you made me wanna be great
+Yeah, I’m a dollar short and a day too late
+But damn — you changed my fate
+
+You didn’t promise heaven, didn’t say a word
+Just kindness in your eyes that I hadn’t heard
+I felt ten years younger just standing there
+Like hope still lives in hospital air
+Lucky man wears your ring tonight
+I won’t curse the dark, I’ll bless the light
+Some angels pass through just to remind
+Broken men they still got time
+
+So I squared my shoulders, lifted my chin
+If that’s the kind of world you’re in
+
+I’m a dollar short and a day too late
+But you shook my soul, yeah you rattled my cage
+That smile turned pain into forward motion
+Heart restart, brand-new devotion
+If loving you’s a road I can’t take
+Still you made me wanna be great
+Yeah, I’m a dollar short and a day too late
+But damn — you changed my fate
+
+Maybe I don’t need your number or your name
+Maybe I just needed proof I’m not done yet, babe
+If I chase the man I felt when you smiled my way
+That might be the love that saves me someday
+
+So here’s to nurses with fire in their eyes
+To purple hearts and gold inside
+To moments that don’t belong to you
+But still pull the best out of you
+
+I’m a dollar short and a day too late
+But I’m richer now in every way
+You didn’t stay, you didn’t try
+Still you changed the rest of my life
+If I ever earn that better name
+Or walk across that brighter stage
+I’ll thank that smile from yesterday
+Even a dollar short, a day too late
+
+Yeah… some love songs
+Aren’t about getting the girl
+They’re about finding yourself`,
+      links: [ { label:"Watch on YouTube", url:"https://youtu.be/p3S7bJByFok" } ],
+      embedUrl: "https://www.youtube-nocookie.com/embed/p3S7bJByFok"
+    },
+    {
       id: "call-to-duty",
       title: "Call to Duty",
       artist: "Lamer & Buddy",
       albumId: null,
-      typle: "single",
+      type: "Single",
       year: "2026",
       duration: "",
       lyrics: `Raise your right hand, yeah, step in the light
