@@ -47,7 +47,58 @@ window.MUSIC_ARCHIVE = {
       type: "Single",
       year: "2026",
       duration: "",
-      lyrics: ``,
+      lyrics: `Rotor blades cut through the night, that thunder clap sound
+Black Hawks in the sky, yeah they circlin’ the ground
+Boots hit dirt, discipline sharp like a knife
+Trained for the chaos but they fight for a life
+Chain of command, every move calculated
+Not for destruction, it’s a system updated
+See the mission ain’t war, it’s correction and truth
+Bringin’ order back home, reinvest in the youth
+From the blocks to the cells where the lost get confined
+We ain’t tearin’ it down, we redesignin’ the mind
+Structure over fear, give a man back his name
+Turn a number to a future, not a cog in a game
+Rise up, stand tall, hear the call in the sky
+Black Hawks hover low but the vision is high
+Not chains, not fear, yeah we changin’ the way
+Build a system that’s stronger for the U.S.A
+Special tactics move silent, every step got a code
+Integrity, honor, yeah we carry the load
+No more broken systems where the lost disappear
+We rebuild with a purpose, make the pathway clear
+From the courtroom steps to the ballot line
+Let the people speak truth, let the future align
+New voices rise up, no corruption to hide
+Put the power in the hands of the ones who decide
+We ain’t fightin’ the people, we protectin’ the right
+To rebuild every system, bring it into the light
+From the ashes of the past, yeah we learn and we grow
+Turn the pain into progress, let the whole world know
+Deep in the networks where the data streams fly
+Analysts read patterns that the eye can’t spy
+Critical systems like hospitals run day and night
+Protected by layers of coordinated light
+Not just force on the street, it’s intelligence flow
+Mapping out signals that the anomalies show
+When disruption appears in the digital chain
+Response units coordinate, minimize pain
+Safeguarding the systems that the nation relies
+From infrastructure down to the medical ties
+It’s precision, not panic, it’s order and care
+Keeping stability strong in the public square
+Rise up, stand tall, hear the call in the sky
+Black Hawks hover low but the vision is high
+Not chains, not fear, yeah we changin’ the way
+Build a system that’s stronger for the U.S.A
+This is more than a mission, it’s a code we defend
+Loyalty to the people, not the means to an end
+Every move, every step got a reason behind
+Build a nation that’s just, not a system confined
+From the ground to the sky, yeah the message is clear
+Discipline, unity, evolution not fear
+This the sound of a nation when it’s ready to grow
+Not destruction—but direction, now you already know`,
 
       links: [  { label:"Watch on YouTube", url:"https://youtu.be/o52qHy7OUPo"} ],
       embedUrl: "https://www.youtube-nocookie.com/embed/o52qHy7OUPo"
