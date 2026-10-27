@@ -1,6 +1,6 @@
 # Lamer & Buddy Music Archive
 
-A hand-coded, responsive music archive built with plain HTML, CSS, and JavaScript. Designed for GitHub Pages; no build step, framework, or package installation required.
+A hand-coded, responsive music archive built with plain HTML, CSS, and JavaScript. Designed for GitHub Pages; no build step, framework, or package installation required. The catalog currently contains 14 songs across 3 releases.
 
 ## Preview locally
 
@@ -84,13 +84,17 @@ The current cover art is CSS-generated placeholder artwork, so the site works wi
 
 ## Publish on GitHub Pages
 
-1. Create a GitHub repository named `lamer-buddy-music-archive` (or another name you prefer).
-2. Copy the project files into the repository's root directory. `index.html` must remain at the root.
-3. Commit and push the files to the default branch, usually `main`.
+**Important: upload the contents of this ZIP to the repository root, not the enclosing folder.** The repository root must contain `index.html`, `.nojekyll`, `css/`, and `js/` side by side. In particular, `js/music.js` must be at that exact path because it contains the song catalog. If the `js` directory is nested inside another `lamer-buddy-music-archive/` directory, the page may load but show 0 tracks.
+
+1. Extract this ZIP.
+2. Upload the *contents* of the extracted folder to the root of the `lamer-buddy-music-archive` GitHub repository. Keep the `css/` and `js/` directories intact.
+3. Commit the changes to the publishing branch, usually `main`.
 4. On GitHub, open **Settings → Pages**.
 5. Under **Build and deployment**, choose **Deploy from a branch**.
 6. Select branch `main` and folder `/(root)`, then save.
-7. Wait for the Pages deployment to finish. GitHub will display the published URL in Settings → Pages.
+7. Wait for the Pages deployment to finish, then hard-refresh the site (`Ctrl+Shift+R`).
+
+The HTML uses relative asset paths and versioned URLs to help avoid stale cached assets. The `.nojekyll` file is included to make the static-site intent explicit.
 
 A project site usually uses this URL pattern: `https://YOUR-USERNAME.github.io/lamer-buddy-music-archive/`. Replace `YOUR-USERNAME` with your GitHub username. A user/organization site repository named `YOUR-USERNAME.github.io` uses `https://YOUR-USERNAME.github.io/`.
 

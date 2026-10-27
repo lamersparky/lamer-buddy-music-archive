@@ -14,6 +14,16 @@
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
   })[c]);
 
+  // Fail visibly instead of leaving the page stuck at “0 tracks” if the catalog
+  // asset is missing or malformed (for example, after an incomplete upload).
+  if (!data || !Array.isArray(data.albums) || !Array.isArray(data.songs)) {
+    songCount.textContent = "0";
+    emptyState.hidden = false;
+    emptyState.textContent = "The music catalog could not load. Please upload the complete site, including js/music.js, and refresh the page.";
+    console.error("Lamer & Buddy archive: window.MUSIC_ARCHIVE is missing or malformed. Check the js/music.js path and deployment contents.");
+    return;
+  }
+
   const getAlbum = id => data.albums.find(album => album.id === id);
   const albumName = song => getAlbum(song.albumId)?.title || "Standalone single";
 
